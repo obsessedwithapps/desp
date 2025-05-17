@@ -4,3 +4,8 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+linfa = "0.7"
+linfa-trees = "0.7"
+text_io = "0.1"
+ndarray = "0.15"
+linfa-datasets = "0.7"
